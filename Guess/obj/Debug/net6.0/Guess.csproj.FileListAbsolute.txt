@@ -1,0 +1,15 @@
+C:\Users\lest0823\source\repos\Guess\Guess\bin\Debug\net6.0\Guess.exe
+C:\Users\lest0823\source\repos\Guess\Guess\bin\Debug\net6.0\Guess.deps.json
+C:\Users\lest0823\source\repos\Guess\Guess\bin\Debug\net6.0\Guess.runtimeconfig.json
+C:\Users\lest0823\source\repos\Guess\Guess\bin\Debug\net6.0\Guess.dll
+C:\Users\lest0823\source\repos\Guess\Guess\bin\Debug\net6.0\Guess.pdb
+C:\Users\lest0823\source\repos\Guess\Guess\obj\Debug\net6.0\Guess.csproj.AssemblyReference.cache
+C:\Users\lest0823\source\repos\Guess\Guess\obj\Debug\net6.0\Guess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lest0823\source\repos\Guess\Guess\obj\Debug\net6.0\Guess.AssemblyInfoInputs.cache
+C:\Users\lest0823\source\repos\Guess\Guess\obj\Debug\net6.0\Guess.AssemblyInfo.cs
+C:\Users\lest0823\source\repos\Guess\Guess\obj\Debug\net6.0\Guess.csproj.CoreCompileInputs.cache
+C:\Users\lest0823\source\repos\Guess\Guess\obj\Debug\net6.0\Guess.dll
+C:\Users\lest0823\source\repos\Guess\Guess\obj\Debug\net6.0\refint\Guess.dll
+C:\Users\lest0823\source\repos\Guess\Guess\obj\Debug\net6.0\Guess.pdb
+C:\Users\lest0823\source\repos\Guess\Guess\obj\Debug\net6.0\Guess.genruntimeconfig.cache
+C:\Users\lest0823\source\repos\Guess\Guess\obj\Debug\net6.0\ref\Guess.dll
